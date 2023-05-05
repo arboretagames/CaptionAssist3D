@@ -17,3 +17,4 @@ USAGE:
 
 - Add DirectionalCaptionsUI prefab as a child of your player GameObject
 - Use the DirectionalSound Source prefab for AudioSources, or add a Directional Sound Caption component to an exisiting AudioSource
+- Edit the Caption Text String value to whatever you want the caption for that source to be
