@@ -5,7 +5,7 @@ Dynamic directional closed captioning system for Unity3D
 - Captions are added/removed when the player is out of an AudioSource's range
 
 
-See it in action: https://www.youtube.com/watch?v=K5czfeyCfJQ&t=26s
+See it in action: https://www.youtube.com/watch?v=K5czfeyCfJQ&t
 
 You are free to:
 
