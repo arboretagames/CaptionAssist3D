@@ -1,6 +1,10 @@
 Directional closed captioning system for Unity3D
 
-https://creativecommons.org/licenses/by/3.0/
+Shows the player visually where a sound is coming from and how far away it is.
+
+Direction is shown via an arrow, distance via the alpha of the caption text.
+
+See it in action: https://www.youtube.com/watch?v=K5czfeyCfJQ&t=26s
 
 You are free to:
 
@@ -19,4 +23,4 @@ USAGE:
 - Use the DirectionalSound Source prefab for AudioSources, or add a Directional Sound Caption component to an exisiting AudioSource
 - Edit the Caption Text String value to whatever you want the caption for that source to be
 
-See it in action: https://www.youtube.com/watch?v=K5czfeyCfJQ&t=26s
+https://creativecommons.org/licenses/by/3.0/
