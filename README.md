@@ -8,6 +8,8 @@
 
 See it in action: https://www.youtube.com/watch?v=K5czfeyCfJQ&t
 
+![Capture](https://github.com/arboretagames/CaptionAssist3D/assets/132666321/5f6a2348-96f6-4b71-a0e5-f722818d4049)
+
 You are free to:
 
     Share — copy and redistribute the material in any medium or format
